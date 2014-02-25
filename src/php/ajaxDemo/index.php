@@ -40,7 +40,7 @@ $target = "***********"; //conversation target number/JID
             //    var foo = $("#debug").text();
             //    $("#debug").text(foo + data);
             //}		    
-	    }).always(function() { //if DONE is used, the service is stopped in case of failure of connection.
+	}).always(function() { //if DONE is used, the service is stopped in case of failure of connection.
             setTimeout(function() {
                 Listen(false)
             }, 1000);
