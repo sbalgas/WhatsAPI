@@ -8,7 +8,7 @@
  * @param boolean $span
  * If "true", the function will return an html tag
  * Example: <span class="emoji" id="emoji-1F604"></span>
- * this will show the smiling face, require emojisprite.css and emojisprite.jpg
+ * this will show the smiling face, require emojisprite.css and emojisprite.png
  *
  * Otherwise, if it is "false", return an id. Example, ##1F604##.
  *
